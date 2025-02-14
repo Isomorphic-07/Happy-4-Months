@@ -127,7 +127,7 @@
     }
 
     .navbar__menu.active {
-        background: #131313;
+        background: #d30b47;
         top: 100%;
         opacity: 1;
         transition: all 0.5s ease;
@@ -201,7 +201,7 @@
 
 /* Hero Section CSS*/
 .main {
-    background-color: #141414;
+    background-color: #d30b47;
 
 }
 
@@ -212,8 +212,8 @@
     justify-self: center;
     margin: 0 auto;
     height: 150vh;
-    background-color: #141414;
-    background-image: url("BatKitty.jpg");
+    background-color: #d30b47;
+    background-image: url("images/BatKitty.jpg");
     z-index: 1;
     width: 100%;
     max-width: 1300px;
