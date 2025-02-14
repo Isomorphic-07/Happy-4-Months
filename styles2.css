@@ -213,6 +213,7 @@
     margin: 0 auto;
     height: 360vh;
     background-color: #141414;
+    background-image: url("BatKitty.jpg");
     z-index: 1;
     width: 100%;
     max-width: 1300px;
